@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/hecto932/AngularJS-and-ReactJS/issues"
   },
-  "homepage": "https://github.com/hecto932/AngularJS-and-ReactJS#readme"
+  "homepage": "https://github.com/hecto932/AngularJS-and-ReactJS#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "ngreact": "^0.1.7"
+  }
 }
