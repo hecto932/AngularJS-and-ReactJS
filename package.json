@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-and-reactjs",
+  "version": "1.0.0",
+  "description": "Usando AngularJS y ReactJS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hecto932/AngularJS-and-ReactJS.git"
+  },
+  "author": "Hector Flores @hecto932",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hecto932/AngularJS-and-ReactJS/issues"
+  },
+  "homepage": "https://github.com/hecto932/AngularJS-and-ReactJS#readme"
+}
